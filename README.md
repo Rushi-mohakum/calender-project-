@@ -1,1 +1,4 @@
 # calender-project-
+Birthday Reminder Calendar is a simple web application built using HTML, CSS, and JavaScript that helps users manage and track birthdays. The application allows users to add a person's name and birth date, which is stored in the browser using localStorage so the data persists even after refreshing the page.
+The system generates a monthly calendar interface where days with birthdays are highlighted. It also displays a list of upcoming birthdays sorted by date. If a stored birthday matches the current date, the application shows a reminder message and browser notification to alert the user. Additionally, the program automatically checks for birthdays daily at 9 AM to ensure reminders are shown on time.
+Overall, the project demonstrates how JavaScript, DOM manipulation, and browser storage can be used to build a simple reminder system for personal event management.
